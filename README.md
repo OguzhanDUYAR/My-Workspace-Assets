@@ -58,3 +58,8 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [Oguzhan DUYAR](https://github.com/OguzhanDUYAR).<br />
 This project is [BSD--3 & GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) licensed.
 
+<p float="right">
+  <img src="https://github.com/OguzhanDUYAR/My-Workspace-Assets/blob/main/IMG/MY.webp" width="150" />
+  <img src="https://opensource.org/files/OSI_Approved_License.png" width="150" /> 
+  <img src="https://www.gnu.org/graphics/gplv3-127x51.png" width="150" />
+</p>

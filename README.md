@@ -8,7 +8,7 @@
     <img alt="License: BSD--3 & GPLv3" src="https://img.shields.io/badge/License-BSD--3 & GPLv3-yellow.svg" />
   </a>
   <a href="https://twitter.com/https://twitter.com/4513484511345I4" target="_blank">
-    <img alt="Twitter: https://twitter.com/4513484511345I4" src="https://img.shields.io/twitter/follow/https://twitter.com/4513484511345I4.svg?style=social" />
+    <img alt="Twitter: https://twitter.com/4513484511345I4" src="https://img.shields.io/twitter/follow/4513484511345I4.svg?style=social" />
   </a>
 </p>
 

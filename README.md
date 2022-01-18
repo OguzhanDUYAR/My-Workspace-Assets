@@ -1,11 +1,8 @@
-<img align="right" alt="avatar" width="200" src="avatar2.JPG"> 
+<img align="right" alt="avatar" width="200" src="IMG/MY.webp"> 
 
-##👋👋👋 Welcome to My Workspace Assets 👋👋👋
- ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
- <!--
- ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
- ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
--->
+##👋� Welcome to My Workspace Assets
+
+
 <h1 align="center"> 👋</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />

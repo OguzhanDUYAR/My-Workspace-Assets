@@ -7,8 +7,8 @@
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">
     <img alt="License: BSD--3 & GPLv3" src="https://img.shields.io/badge/License-BSD--3 & GPLv3-yellow.svg" />
   </a>
-  <a href="https://twitter.com/https:\/\/twitter.com\/4513484511345I4" target="_blank">
-    <img alt="Twitter: https:\/\/twitter.com\/4513484511345I4" src="https://img.shields.io/twitter/follow/https:\/\/twitter.com\/4513484511345I4.svg?style=social" />
+  <a href="https://twitter.com/https://twitter.com/4513484511345I4" target="_blank">
+    <img alt="Twitter: https://twitter.com/4513484511345I4" src="https://img.shields.io/twitter/follow/https://twitter.com/4513484511345I4.svg?style=social" />
   </a>
 </p>
 
@@ -58,5 +58,3 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [Oguzhan DUYAR](https://github.com/OguzhanDUYAR).<br />
 This project is [BSD--3 & GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) licensed.
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

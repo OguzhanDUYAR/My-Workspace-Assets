@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My Workspace Assets 👋</h1>
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://oguzhanduyar.github.io/" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
@@ -58,7 +58,7 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [Oguzhan DUYAR](https://github.com/OguzhanDUYAR).<br />
 This project is [BSD--3 & GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) licensed.
 
-<p float="right">
+<p align="center" float="right">
   <img src="https://github.com/OguzhanDUYAR/My-Workspace-Assets/blob/main/IMG/MY.webp" width="150" />
   <img src="https://opensource.org/files/OSI_Approved_License.png" width="150" /> 
   <img src="https://www.gnu.org/graphics/gplv3-127x51.png" width="150" />
